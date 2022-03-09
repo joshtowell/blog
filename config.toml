@@ -1,4 +1,4 @@
 baseURL = 'http://joshtowell.github.io/web-portfolio/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = 'Joshua Towell | Portfolio'
-theme = "aether"
+theme = "papermod"
