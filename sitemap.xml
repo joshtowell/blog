@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>http://joshtowell.github.io/web-portfolio/second-blog/</loc><lastmod>2022-03-09T23:10:43+00:00</lastmod></url><url><loc>http://joshtowell.github.io/web-portfolio/first-blog/</loc><lastmod>2022-03-09T22:54:12+00:00</lastmod></url><url><loc>http://joshtowell.github.io/web-portfolio/categories/</loc></url><url><loc>http://joshtowell.github.io/web-portfolio/</loc></url><url><loc>http://joshtowell.github.io/web-portfolio/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://joshtowell.github.io/web-portfolio/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://joshtowell.github.io/web-portfolio/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://joshtowell.github.io/web-portfolio/fa/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://joshtowell.github.io/web-portfolio/sitemap.xml
