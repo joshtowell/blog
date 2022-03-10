@@ -1,0 +1,21 @@
+# Main site attributes
+baseURL: 'http://joshtowell.github.io/web-portfolio/'
+languageCode: en-gb
+title: Joshua Towell | Portfolio
+theme: papermod
+
+# Site menu setup
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: http://joshtowell.github.io/web-portfolio/
+      weight: 30
